@@ -1,0 +1,57 @@
+.t1 {
+	text-align:center;
+	border:solid;
+	border-color:black;
+	font-family:arial;
+	font-size:11px;
+}
+
+td { 
+	border-top: 1px solid black;
+	border-left: 1px solid black;
+	border-color:black;
+}
+
+table { 
+	border-bottom: 1px solid black;
+	border-right: 1px solid black;
+	border-color:black;
+	border:solid;
+}
+
+.td1, .td2, .td3, .td4 {
+	font-weight:bold;
+	font-style:italic;
+}
+
+
+.td6, .td7 {
+	
+	font-weight:bold;
+	font-style:italic;	
+	color:green;
+
+}
+
+.td9 {
+	font-weight:bold;
+	font-style:italic;	
+	color:green;
+}
+
+.td10, .td12, .td13, .td15 {
+	font-weight:bold;
+	font-style:italic;
+	color:red;
+	
+}
+
+.td16 {
+	font-weight:bold;
+	font-style:italic;
+	color:green;			
+}
+
+.td5, .td6, .td7, .td11, .td12, .td13 {
+	background-color:gray;	
+}
