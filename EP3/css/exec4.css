@@ -1,1 +1,19 @@
-teste
+.imagem{
+	float:left;
+}
+
+.p1{
+	text-align: justify;
+	float:left;
+	font-family:Arial;
+	
+}
+
+.p2{
+	text-align: justify;
+	float: left;	
+	font-family:Arial;
+	margin-top:10px;
+	margin-right:300px;
+
+}
